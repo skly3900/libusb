@@ -1,3 +1,5 @@
+/*gcc -o jo jo.c -I/usr/include/libusb-1.0/ -lusb-1.0*/
+
 #include <stdio.h>
 #include "libusb.h"
 
